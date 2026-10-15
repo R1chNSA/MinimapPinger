@@ -1,0 +1,8 @@
+## Interface: 120105
+## Title: Minimap Pinger
+## Notes: Choose where to silence minimap ping sounds. /mmp opens settings.
+## Author: R1chNSA
+## Version: 1.6.0
+## SavedVariables: MinimapPingerDB
+
+MinimapPinger.lua
