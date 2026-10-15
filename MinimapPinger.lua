@@ -4,12 +4,12 @@ local settingsCategory
 local pingSoundMuted = false
 local PING_SOUND_FILE_ID = 567416
 local CONTENT_OPTIONS = {
-    { instanceType = "none", key = "muteOpenWorld", label = "Mute in the open world", description = "Cities and outdoor zones. The ping marker will still appear." },
-    { instanceType = "party", key = "muteDungeons", label = "Mute in dungeons", description = "All dungeon difficulties. The ping marker will still appear." },
-    { instanceType = "raid", key = "muteRaids", label = "Mute in raids", description = "All raid difficulties. The ping marker will still appear." },
-    { instanceType = "scenario", key = "muteScenarios", label = "Mute in scenarios and Delves", description = "Scenarios and Delves. The ping marker will still appear." },
-    { instanceType = "pvp", key = "muteBattlegrounds", label = "Mute in battlegrounds", description = "Normal and rated battlegrounds. The ping marker will still appear." },
-    { instanceType = "arena", key = "muteArenas", label = "Mute in arenas", description = "Arena matches. The ping marker will still appear." },
+    { instanceType = "none", key = "muteOpenWorld", label = "Mute in Open World", description = "Cities and outdoor zones. The ping marker will still appear." },
+    { instanceType = "party", key = "muteDungeons", label = "Mute in Dungeons", description = "All dungeon difficulties. The ping marker will still appear." },
+    { instanceType = "raid", key = "muteRaids", label = "Mute in Raids", description = "All raid difficulties. The ping marker will still appear." },
+    { instanceType = "scenario", key = "muteScenarios", label = "Mute in Scenarios/Delves", description = "Scenarios and Delves. The ping marker will still appear." },
+    { instanceType = "pvp", key = "muteBattlegrounds", label = "Mute in Battlegrounds", description = "Normal and rated battlegrounds. The ping marker will still appear." },
+    { instanceType = "arena", key = "muteArenas", label = "Mute in Arenas", description = "Arena matches. The ping marker will still appear." },
 }
 local settingForInstanceType = {}
 

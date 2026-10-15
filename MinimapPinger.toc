@@ -2,7 +2,7 @@
 ## Title: Minimap Pinger
 ## Notes: Choose where to silence minimap ping sounds. /mmp opens settings.
 ## Author: R1chNSA
-## Version: 1.6.0
+## Version: 1.6.1
 ## SavedVariables: MinimapPingerDB
 
 MinimapPinger.lua
