@@ -1,5 +1,7 @@
 # Minimap Pinger
 
+![Minimap Pinger icon](assets/project-icon.png)
+
 Mute the minimap ping sound in the parts of World of Warcraft where you do not want to hear it. Choose separately for the open world, dungeons, raids, scenarios and Delves, battlegrounds, and arenas. Ping markers remain visible.
 
 ## Install
